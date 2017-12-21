@@ -1,0 +1,4 @@
+If you want to automate your android app using Appium, use this file as SetUp. 
+You just need to add another Class with locators and test logic. 
+
+I will add example of creating simple test case later, stay with Me! 
